@@ -1,0 +1,16 @@
+C:\Users\Chaklun\Documents\GitHub\ASP_Homework_160424\bin\Debug\netcoreapp2.1\ASP_Homework_160424.deps.json
+C:\Users\Chaklun\Documents\GitHub\ASP_Homework_160424\bin\Debug\netcoreapp2.1\ASP_Homework_160424.runtimeconfig.json
+C:\Users\Chaklun\Documents\GitHub\ASP_Homework_160424\bin\Debug\netcoreapp2.1\ASP_Homework_160424.runtimeconfig.dev.json
+C:\Users\Chaklun\Documents\GitHub\ASP_Homework_160424\bin\Debug\netcoreapp2.1\ASP_Homework_160424.dll
+C:\Users\Chaklun\Documents\GitHub\ASP_Homework_160424\bin\Debug\netcoreapp2.1\ASP_Homework_160424.pdb
+C:\Users\Chaklun\Documents\GitHub\ASP_Homework_160424\obj\Debug\netcoreapp2.1\ASP_Homework_160424.csproj.AssemblyReference.cache
+C:\Users\Chaklun\Documents\GitHub\ASP_Homework_160424\obj\Debug\netcoreapp2.1\ASP_Homework_160424.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chaklun\Documents\GitHub\ASP_Homework_160424\obj\Debug\netcoreapp2.1\ASP_Homework_160424.AssemblyInfoInputs.cache
+C:\Users\Chaklun\Documents\GitHub\ASP_Homework_160424\obj\Debug\netcoreapp2.1\ASP_Homework_160424.AssemblyInfo.cs
+C:\Users\Chaklun\Documents\GitHub\ASP_Homework_160424\obj\Debug\netcoreapp2.1\ASP_Homework_160424.csproj.CoreCompileInputs.cache
+C:\Users\Chaklun\Documents\GitHub\ASP_Homework_160424\obj\Debug\netcoreapp2.1\ASP_Homework_160424.RazorAssemblyInfo.cache
+C:\Users\Chaklun\Documents\GitHub\ASP_Homework_160424\obj\Debug\netcoreapp2.1\ASP_Homework_160424.RazorAssemblyInfo.cs
+C:\Users\Chaklun\Documents\GitHub\ASP_Homework_160424\obj\Debug\netcoreapp2.1\ASP_Homework_160424.RazorTargetAssemblyInfo.cache
+C:\Users\Chaklun\Documents\GitHub\ASP_Homework_160424\obj\Debug\netcoreapp2.1\ASP_Homework_160424.dll
+C:\Users\Chaklun\Documents\GitHub\ASP_Homework_160424\obj\Debug\netcoreapp2.1\ASP_Homework_160424.pdb
+C:\Users\Chaklun\Documents\GitHub\ASP_Homework_160424\obj\Debug\netcoreapp2.1\ASP_Homework_160424.genruntimeconfig.cache
